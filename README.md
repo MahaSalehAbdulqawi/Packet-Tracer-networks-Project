@@ -12,16 +12,6 @@ This project is useful for:
 - Reviewing business-oriented network architecture
 - Understanding connectivity between office departments and shared services
 
-## Included Files
-
-- `Business Networks Project_group4 (1).pkt`  
-  Cisco Packet Tracer project file containing the network simulation topology.
-
-- `Business Networks.pdf`  
-  Project documentation containing the business network design, diagrams, and supporting details.
-
-- `README.md`  
-  Project overview and usage instructions.
 
 ## What the Network Represents
 
@@ -43,34 +33,17 @@ This project aims to:
 - Provide a practical example of network planning and implementation
 - Support learning through simulation before real-world deployment
 
-## Requirements
+## Included Files
 
-To open and work with the project, you need:
-- Cisco Packet Tracer (recommended latest version compatible with the file)
-- A computer running Windows, macOS, or Linux with Packet Tracer support
-- The project files from this repository
+- `Business Networks Project_group4 (1).pkt`  
+  Cisco Packet Tracer project file containing the network simulation topology.
 
-## How to Use
+- `Business Networks.pdf`  
+  Project documentation containing the business network design, diagrams, and supporting details.
 
-1. Download or clone this repository.
-2. Open `Business Networks Project_group4 (1).pkt` in Cisco Packet Tracer.
-3. Review the network topology and device configuration.
-4. Open `Business Networks.pdf` for the supporting project explanation and design information.
-5. Experiment with devices, test connectivity, and study the network behavior.
+- `README.md`  
+  Project overview and usage instructions.
 
-## Suggested Learning Workflow
-
-- Start by reviewing the PDF to understand the design goals.
-- Open the Packet Tracer file and inspect the topology.
-- Identify routers, switches, and end devices.
-- Check connectivity and traffic flow between segments.
-- Modify or extend the topology for practice and experimentation.
-
-## Notes
-
-- The Packet Tracer file is the main interactive component of the project.
-- The PDF acts as the project reference and should be reviewed alongside the simulation.
-- This repository is intended for educational and practical networking study.
 
 ## Summary
 
