@@ -1,6 +1,6 @@
 # Business Networks Project
 
-This repository contains a Cisco Packet Tracer networking project designed to simulate a business network environment. The project includes a Packet Tracer topology file and supporting project documentation, making it suitable for academic networking labs, network design practice, and hands-on configuration exercises.
+This repository contains a Cisco Packet Tracer networking group project designed to simulate a business network environment. The project includes a Packet Tracer topology file and supporting project documentation, making it suitable for academic networking labs, network design practice, and hands-on configuration exercises.
 
 ## Project Overview
 
